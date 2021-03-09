@@ -1,7 +1,7 @@
 ---
-title: The Making of my Username
+title: The Making of my Username, Feemagie
 subtitle: Journey to Coming Up with my Steamer Username
-description: The four step journey I took to come up with that perfect username for my online presence across multiple platforms.
+description: How I got my title as a female Twitch streamer. The four step journey I took to come up with that perfect username for my online presence across multiple platforms.
 author: Feemagie
 date: 2021-01-17
 tags: Username, Feemagie, Streaming
@@ -12,7 +12,7 @@ bannerCredit: Photo by Nadine Berlin
 
 Hello! I'm Feemagie. It wasn't easy coming up with a meaningful and/or easy to remember name to use as my online handle. It takes time, research, nerves and having that special ring to it. Sometimes it's also desirable to be easily identified on a variety of different platforms. And for my case, keeping a consistent username between them is quite important. If you're trying to come up with that username for your own online presence, I hope this article of my own journey can be helpful in discovering what yours might be as well.
 
-### Something Meaningful
+### Something Meaningful.
 
 I believe the first step to coming up with an online alias is to pick words that are meaningful personally, hobbies I like, or even the style I enjoy. An important note in regards to personally meaningful though: it does *not* mean personally identifiable. I don't at all recommend you include your birthday or mother's maiden name in your online alias. Especially as a streamer, I think it's important to keep your online presence disconnected from anything identifiable. Although, something less specific but connected to it would still be reasonable; like incorporating "Autumn" if you were born in the season, or maybe something related to the definition of your mother's maiden name. In any case, ensure what you pick also keeps you **safe** online.
 
@@ -30,15 +30,15 @@ By the end, I had a plethora of words at my disposal. A very small portion of ex
 
 In summary, I tried to come up with two or three words that sparked to me, and create a network of related meanings and things. With this I could easily find new words that spoke to me better!
 
-### Something Available
+### Something Available.
 
 Availability is an essential aspect to selecting my name. It definitely goes without saying... if I couldn't use it on the social platforms I was active on, I wouldn't be able to associate myself with it.
 
-This is where writing down all those all those words and meanings paid off. I had plenty of words to shuffle, translate, and puzzle with. From here, I wanted to find out what names where available on the platforms I wanted to be present on. It was a bit difficult since there were so many: Twitch, YouTube, Twitter, Reddit, Discord, Instagram, Steam, Itch.IO... and a few more. I focused on the one's that were most important to me: Twitch, YouTube, Twitter, Instagram, and (although not a social platform) an available domain above all. A great site that helped save a buttload of time was www.namechk.com. 
+This is where writing down all those all those words and meanings paid off. I had plenty of words to shuffle, translate, and puzzle with. From here, I wanted to find out what names were available on the platforms I wanted to be present on. It was a bit difficult since there were so many: Twitch, YouTube, Twitter, Reddit, Discord, Instagram, Steam, Itch.IO... and a few more. I focused on the ones that were most important to me: Twitch, YouTube, Twitter, Instagram, and (although not a social platform) an available domain above all. A great site that helped save a buttload of time was www.namechk.com. 
 
-This narrowed my ideas down by quite a bit more, since, of course, these were very popular platforms with a phenomenal number of users with a vast variety registered names (some not even used, which was quite annoying). I think I was fortunate that combinations of German words were still available...hehe clever me. 
+This narrowed my ideas down by quite a bit more, since, of course, these were very popular platforms with a phenomenal number of users with a vast variety of registered names (some not even used, which was quite annoying). I think I was fortunate that combinations of German words were still available... hehe clever me. 
 
-Some examples were...
+Some examples were:
 
 * Toxicfairy – _maybe a little too toxic_
 * Forbiddenfairy – _Maybe a tad too dark_
@@ -48,7 +48,7 @@ Some examples were...
 * forbiddendust – _makes me think of drugs like Angel Dust_
 * Fairyzauber (fairy magic - half English half German) - _I like it....and that's why it was already taken &#42; **great** &#42;_
 
-One of the deciding factors was the phonetics of the name! Feemagie is a normal couple of words in German but for all other audiences, it has a cute ring to it….almost like something Japanese or so.
+One of the deciding factors was the phonetics of the name! Feemagie is a normal couple of words in German but for all other audiences, it has a cute ring to it… almost like something Japanese or so.
 
 ### Something to Remember
 
@@ -60,7 +60,7 @@ As I continued to narrow down my username, I certainly wanted to consider the le
 
 And just like that &#42; **poof** &#42;, a name was born, and by no surprise the chosen name was "Feemagie". I began registering said name on all the platforms I was going to be using. 
 
-_*signed, sealed and delivered, I'm Yours*_. Easy to find, easy to recognize on any platform without thinking too much about it. Of course, a few platforms I couldn't get the exact name. For example... my Instagram account had to be "fee.magie" since the desired account name was reserved for a very cute cat account....Not mad though, the cat is _adorable_.
+_*signed, sealed and delivered, I'm Yours*_. Easy to find, easy to recognize on any platform without thinking too much about it. Of course, a few platforms I couldn't get the exact name. For example... my Instagram account had to be "fee.magie" since the desired account name was reserved for a very cute cat account... Not mad though, the cat is _adorable_.
 
 ![Vote between two Final Versions of the Logo](/images/blog/logo_vote.webp "Final Versions of the Logo")
 
